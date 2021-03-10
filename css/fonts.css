@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'BPG Boxo-Boxo';
+    src: url("../FONTS/bpg-boxo-boxo-webfont.eot"); /* IE9 Compat Modes */
+    src: url('../fonts/bpg-boxo-boxo-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/bpg-boxo-boxo-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/bpg-boxo-boxo-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/bpg-boxo-boxo-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/bpg-boxo-boxo-webfont.svg#bpg_boxo-boxoregular') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'BPG WEB 001 Caps';
+    src: url('../fonts/bpg-web-001-caps-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/bpg-web-001-caps-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/bpg-web-001-caps-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/bpg-web-001-caps-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/bpg-web-001-caps-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/bpg-web-001-caps-webfont.svg#bpg_web_001_capsregular') format('svg'); /* Legacy iOS */
+}
+
+
+@font-face {
+    font-family: 'BPG Mrgvlovani Caps';
+    src: url('../fonts/bpg-mrgvlovani-caps-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/bpg-mrgvlovani-caps-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/bpg-mrgvlovani-caps-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/bpg-mrgvlovani-caps-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/bpg-mrgvlovani-caps-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/bpg-mrgvlovani-caps-webfont.svg#bpg_mrgvlovani_capsregular') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'BPG Nateli';
+    src: url('../fonts/bpg-nateli-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/bpg-nateli-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/bpg-nateli-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/bpg-nateli-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/bpg-nateli-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/bpg-nateli-webfont.svg#bpg_nateliregular') format('svg'); /* Legacy iOS */
+}
+
+
+@font-face {
+    font-family: 'ArchyEDT-Bold';
+    src: url('../fonts/archyedt-bold-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/archyedt-bold-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/archyedt-bold-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/archyedt-bold-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/archyedt-bold-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/archyedt-bold-webfont.svg#archyedt-bold') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'BPG Ingiri Arial';
+    src: url('../fonts/bpg-ingiri-arial-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/bpg-ingiri-arial-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/bpg-ingiri-arial-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/bpg-ingiri-arial-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/bpg-ingiri-arial-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/bpg-ingiri-arial-webfont.svg#bpg_ingiri_arialregular') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'BPG ExtraSquare Mtavruli';
+    src: url('../fonts/bpg-extrasquare-mtavruli-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/bpg-extrasquare-mtavruli-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/bpg-extrasquare-mtavruli-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/bpg-extrasquare-mtavruli-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/bpg-extrasquare-mtavruli-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/bpg-extrasquare-mtavruli-webfont.svg#bpg_extrasquare_mtavruliregular') format('svg'); /* Legacy iOS */
+}
