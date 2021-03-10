@@ -1151,7 +1151,7 @@ iframe {
 		background-color: #999;
 		width: 40px;
 	}
-	.#ecoguide:after {
+	#ecoguide:after {
 		display: inline-block;
 		margin: 0 0 8px 20px;
 		height: 3px;
